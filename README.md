@@ -25,4 +25,3 @@ based on 'recommendation.critics' as rating dictionary and 'itemsim' as item sim
 8. `prefs=recommendations.loadMovieLens( )` : load the dataset into prefs dictonary object.
 9. `recommendations.getRecommendations(prefs,'87')[0:30]` : returns top 30 results of user based recommendations for
 user with id '87'.
-10. 
